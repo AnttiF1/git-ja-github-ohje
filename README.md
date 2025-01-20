@@ -1,4 +1,4 @@
-# **Git ja Versionhallinta: Tiivis Ohje**
+# **Git ja Versionhallinta: Ohje**
 
 ---
 
